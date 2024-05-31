@@ -1,1 +1,1 @@
-# chat-widget
+# chatbot-embed
